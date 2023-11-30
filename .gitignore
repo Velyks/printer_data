@@ -1,0 +1,6 @@
+backup/
+comms/
+database/
+gcodes/
+logs/
+.moonraker.uuid
